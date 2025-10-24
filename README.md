@@ -1,2 +1,15 @@
-# DiscordStatut
-Plugin Nova-Life Amboise et notifier Discord.
+------------------------------------------------------
+
+DiscordStatut appartient à OokerDev et à nicito_yt
+
+------------------------------------------------------
+
+**Il est interdit de revendre ou modfier mon plugin sans mon autorisation**
+
+------------------------------------------------------
+
+Fonctionnalité :
+- **Premier lancement** : créer un `config.json` à remplir avec le webhook.
+- Quand le serveur se lance cela envoie un embed `Serveur ON`
+
+-------------------------------------------------------
