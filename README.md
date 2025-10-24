@@ -9,7 +9,7 @@ DiscordStatut appartient à OokerDev et à nicito_yt
 ------------------------------------------------------
 
 Fonctionnalité :
-- **Premier lancement** : créer un `config.json` à remplir avec le webhook.
+- **Premier lancement** : le plugin créer un `config.json` à remplir avec le webhook.
 - Quand le serveur se lance cela envoie un embed `Serveur ON`
 
 -------------------------------------------------------
